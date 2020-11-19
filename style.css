@@ -111,3 +111,8 @@ button.active{
   font-weight: bolder;
 }
 
+@media screen and (max-width:768px){
+  html{
+    transform:scale(2);
+  }
+}
